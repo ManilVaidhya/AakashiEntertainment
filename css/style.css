@@ -37,6 +37,10 @@ input[type="submit"],input[type="reset"],.w3l_team_grd,.agileits_w3layouts_featu
     padding: 0.8em 0;
     background: #0d3172;
 }
+.myDropcap {
+	color: #80ced6;
+	font-size: 2em;
+}
 .header-w3layoutstop p {
     color: #fff;
     font-size: 1em;
